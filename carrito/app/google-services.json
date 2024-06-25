@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867560529340",
+    "project_id": "carrito-de-compras-cb1db",
+    "storage_bucket": "carrito-de-compras-cb1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867560529340:android:0647c1c1606626ee4d1fb9",
+        "android_client_info": {
+          "package_name": "com.example.carrito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUl53-NpyUAQGoXt8sIqufgP-hUGnwy9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
